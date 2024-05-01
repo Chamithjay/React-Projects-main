@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+.donut2{
+    background-color: #fefdfd;
+    height: 600px;
+    padding-top: 20px;
+    float: right;
+    
+   
+}
+.donut2 img{
+    height: 14cm;
+    width: 14cm;
+    border-radius: 80px;
+    float: right;
+    margin-right: 30px;
+}
+.donut2 table{
+    float: right;    
+    width: 100%;
+    margin-top: 22px;   
+}
+
+.text{
+    margin-left: 100px;
+    margin-right: 150px;
+    width: 700px;
+    margin-top: -100px;
+}
+
+.text h1{
+    font-family: "Itim", cursive;
+    font-size: 60px;
+    color: #3E1C12;
+}
+
+.text c{
+    font-family: "Montserrat", fantasy;
+    color:#7a4b3d;
+    font-size: 18px;
+}
+.text b img{
+    width: 30px;
+    height: 30px;
+}
